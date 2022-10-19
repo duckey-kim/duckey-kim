@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duckey-kim
 - 👀 I’m interested in ... Backend and Server 
 - 🌱 I’m currently learning ... Kotlin, Vue.js, GraphQL,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me. 
+  - duckey.kdh@gmail.com
 
